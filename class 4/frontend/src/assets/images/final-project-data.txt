@@ -1,0 +1,70 @@
+const cardData = [
+        {
+            id: 1,
+            name: 'Opening Hours',
+            description: 'Open 9.00 am to 5.00pm everyday',
+            icon: clock,
+            bgClass: 'bg-gradient-to-r from-primary to-secondary'
+        },
+        {
+            id: 2,
+            name: 'Our Locations',
+            description: 'Open 9.00 am to 5.00pm everyday',
+            icon: marker,
+            bgClass: 'bg-accent'
+        },
+        {
+            id: 3,
+            name: 'Contact Us',
+            description: 'Open 9.00 am to 5.00pm everyday',
+            icon: phone,
+            bgClass: 'bg-gradient-to-r from-primary to-secondary'
+        },
+    ]
+
+
+ const servicesData = [
+        {
+            id: 1,
+            name: 'Fluoride Treatment',
+            description: 'Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the',
+            img: fluoride
+        },
+        {
+            id: 2,
+            name: 'Cavity Filling',
+            description: 'Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the',
+            img: cavity
+        },
+        {
+            id: 3,
+            name: 'Teeth Whitening',
+            description: 'Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the',
+            img: whitening
+        },
+    ]
+
+
+ const reviews = [
+        {
+            _id: 1, 
+            name: 'Winson Herry',
+            img: people1,
+            review: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
+            location: 'California'
+        },
+        {
+            _id: 2, 
+            name: 'Winson Herry',
+            img: people2,
+            review: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
+            location: 'California'
+        },
+        {
+            _id: 3, 
+            name: 'Winson Herry',
+            img: people3,
+            review: 'It is a long established fact that by the readable content of a lot layout. The point of using Lorem a more-or-less normal distribu to using Content here, content',
+            location: 'California'
+        },
+    ]

@@ -1,0 +1,7 @@
+.info {}
+
+.info img {
+    height: 50px;
+    width: 40px;
+    object-fit: contain;
+}

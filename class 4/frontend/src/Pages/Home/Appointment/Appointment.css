@@ -1,0 +1,11 @@
+.appoinment {
+    background-image: url(../../../assets/images/bg-blue\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 636px; */
+}
+
+.appoinment img {
+    margin-top: -100;
+    max-width: 100%;
+}

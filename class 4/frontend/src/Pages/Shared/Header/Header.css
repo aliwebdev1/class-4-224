@@ -1,0 +1,18 @@
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.active {
+    background: #3A4256;
+    border-radius: 8px;
+    padding: 11px 13px;
+}

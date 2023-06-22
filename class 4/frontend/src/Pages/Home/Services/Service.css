@@ -1,0 +1,13 @@
+.service {
+    background: #FFFFFF;
+    box-shadow: 3px 4px 10px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 18px;
+}
+
+.expectional-dental {
+    margin: 160px 0;
+}
+
+.expectional-dental p {
+    margin: 25px 0;
+}

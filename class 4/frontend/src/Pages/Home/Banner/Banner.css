@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+    color: #3A4256;
+}
+
+h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 114.68%;
+}
+
+h3 {}
+
+
+p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #3A4256;
+
+}
+
+.btn-primari {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: linear-gradient(90deg, #19D3AE -22.5%, #0FCFEC 120.83%);
+    border-radius: 8px;
+    padding: 15px;
+    border: 0;
+}
+
+.text-primari {
+    color: #19D3AE;
+}
+
+.bg-primari {
+    background: linear-gradient(90deg, #19D3AE -38.67%, #0FCFEC 129.78%);
+    border-radius: 14px;
+}
+
+.banner {
+    background-image: url(../../../assets/images//landing-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
